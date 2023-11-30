@@ -1,0 +1,10 @@
+1. Uma classe é um é um modelo, um gabarito para a definição de objetos, que possui Propriedades(atributos) e Métodos(Funcionalidade)
+ 
+2. Um método é o equivalente a um procedimento ou função, com a restrição que ele manipula apenas suas variáveis locais e os atributos 
+que foram definidos para a classe, definindo o comportamento de um objeto, métodos são utilizados para realizar ações ou operações específicas 
+nos objetos da classe a que pertencem.
+
+3. Objetos são instâncias de classes, é criada com base na estrutura definida pela classe. Um objeto é um elemento que representa, no domínio 
+da solução, alguma entidade (abstrata ou concreta) do domínio de interesse do problema sob análise. Objetos similares são agrupados em classes
+
+4. Propriedade, também conhecida como atributo, é uma característica de um objeto. São variáveis que armazenam informações sobre o estado do objeto.
